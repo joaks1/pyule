@@ -12,13 +12,14 @@ Overview
 
 The Python script `yule.py` provides a command-line interface (CLI) for
 performing simple calculations of speciation rate, tree height, and tree length
-under a Yule (pure-birth) process.
+under a Yule (pure-birth) process. It was written by [Jamie
+Oaks](http://www.phyletica.com).
 
 Requirements
 ============
 
-Python is the only requirement. The script has only been tested version version
-2.7 of Python.
+Python is the only requirement. The script has only been tested in version 2.7
+of Python.
 
 Installation
 ============
@@ -103,13 +104,14 @@ site).
 Acknowledgements
 ================
 
-This software benefited from funding provided to Jamie Oaks from the National
-Science Foundation (DEB 1011423 and DBI 1308885).
+This software benefited from funding provided to [Jamie
+Oaks](http://www.phyletica.com) from the National Science Foundation (DEB
+1011423 and DBI 1308885).
 
 License
 =======
 
-Copyright (C) 2013 Jamie Oaks
+Copyright (C) 2013 [Jamie Oaks](http://www.phyletica.com)
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
